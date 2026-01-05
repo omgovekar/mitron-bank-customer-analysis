@@ -1,3 +1,7 @@
+## 🔗 Live Dashboard (Power BI)
+
+👉 View Interactive Dashboard:  
+https://app.powerbi.com/view?r=eyJrIjoiYWRjYmE2YjItODYyZC00ZDZkLThmNzQtMmYyNjI4YjJmMGYzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 # Mitron Bank Customer Analysis (Power BI)
 
 ## Project Overview
